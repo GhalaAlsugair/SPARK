@@ -1,4 +1,4 @@
-# 🌟 Spark - AI-Powered Immersive Storytelling  
+# 🌟 Spark - 3D Storytelling Application
 
 **Spark** is an interactive storytelling platform that enhances narratives with **3D characters, immersive audio, AI-generated images, and real-time word exploration**. It provides an engaging experience where users can learn new words and visualize story elements dynamically.
 
